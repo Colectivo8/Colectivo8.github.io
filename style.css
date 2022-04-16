@@ -146,7 +146,8 @@ body {
 
   @media (max-width: 500px) {
     .flex-item3 {
-        display: none;
+        white-space: nowrap;
+        font-size: 8px;
     }
     .mini2{
         font-size: 15px;
@@ -154,6 +155,10 @@ body {
     .flex-item4 {
         animation: none
       }
+    .flex-item1 {
+        white-space: nowrap;
+        font-size: 8px;
+    }
       
 }
   
