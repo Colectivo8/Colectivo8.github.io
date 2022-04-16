@@ -152,6 +152,10 @@ body {
     .mini2{
         font-size: 15px;
     }
+    .mini{
+        font-size: 8px;
+    }
+      
     .flex-item4 {
         animation: none
       }
