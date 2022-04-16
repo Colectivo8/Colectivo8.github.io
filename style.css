@@ -50,6 +50,11 @@ body {
     margin-right:135px; */
     margin-top: -0.5vh;
 }
+
+.mini span {
+    font-family: "groteskmed";
+}
+
 .video { 
     width: 100vw;
     height: 100vh;
