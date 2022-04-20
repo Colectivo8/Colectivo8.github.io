@@ -167,7 +167,7 @@ body {
 
   @media (max-width: 500px) {
     .flex-item3 {
-        font-size: 7.5px;
+        font-size: 7px;
         width: 20vw;
         margin-right: 5vw;
         
@@ -183,7 +183,7 @@ body {
     }
     .flex-item1 {
         white-space: nowrap;
-        font-size: 7.5px;
+        font-size: 7px;
         width: 20vw;
         margin-left: 5vw;
     }
@@ -203,7 +203,7 @@ body {
     
     }
     .flex-item5{
-      font-size: 8px;
+      font-size: 7px;
       margin-top: 100px;
 
     }
