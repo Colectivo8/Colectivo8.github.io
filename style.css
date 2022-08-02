@@ -163,7 +163,7 @@ width: 400px;
   font-family: "bahnlight";
   font-size: 18px;
   margin: 0;
-  margin-top: 50px;
+  margin-top: 40px;
 }
 
 .BAHNPRODUCT {
@@ -176,7 +176,7 @@ width: 400px;
 .bagerich-ring {
   font-family: "bagerich";
   font-size: 20px;
-  margin-top: 50px;
+  margin-top: 40px;
 }
 
 .spacer {
@@ -195,7 +195,7 @@ width: 400px;
   display: inline-block;
   font-family: "bahn";
   font-size: 13px;
-  margin-top: 30px;
+  margin-top: 15px;
 }
 
 
@@ -357,7 +357,7 @@ width: 400px;
       display: inline-block;
       font-family: "bahn";
       font-size: 10px;
-      margin-top: 400px;
+      margin-top: 300px;
     }
     
     .join {
