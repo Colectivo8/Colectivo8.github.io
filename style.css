@@ -68,14 +68,17 @@ body {
 .mini span {
     font-family: "groteskmed";
 }
-.nftv { 
-  width: 400px;
+.video { 
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    overflow-x: hidden;
+    overflow-y: hidden;
 }
-
-.nft {
-  width: 400px;
-  }
-
 .flex-container-ring {
   display: flex;
   color: white;
@@ -165,7 +168,7 @@ width: 400px;
 
 .BAHNPRODUCT {
   font-family: "bahnlight";
-  font-size: 18px;
+  font-size: 13px;
   margin: 0;
   margin-top: 50px;
 }
