@@ -340,6 +340,15 @@ width: 400px;
       width: 70%;
     }
 
+    .amulets {
+      font-family: "bahn";
+      font-size: 15px;
+      margin-bottom: 70px;
+      margin-top: 70px;
+      color: white;
+      width: 40%;
+    }
+
     .flex-ring-item2 {
       width: 70%;
       margin-top: 50px;
