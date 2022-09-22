@@ -1,3 +1,9 @@
+
+.body {
+ margin: 0;
+
+  
+}
 .botones{
 
     opacity: 1;
@@ -6,18 +12,37 @@
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    margin-inline: 8%;
+    margin-inline: 2%;
     font-family: "bahn";
-    font-size: 13px;
+    font-size: 20px;
+    margin-top: 5%;
+    margin-bottom: 5%;
   
     
   }
+  .botonmail{
+
+    opacity: 1;
+    color: white;
+    
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-inline: 2%;
+    font-family: "bahn";
+    font-size: 30px;
+    
+
+    
+  }
+
+
 
   .video { 
     width: 100vw;
     height: 100vh;
     object-fit: cover;
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     z-index: -1;
@@ -26,19 +51,50 @@
 }
 
   .flex-item6{
-    margin-top: 15%;
-    width: 30%;
-    margin-left: 35%;
-    margin-right: 35%;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
     text-align: center;
     
+    
   }
+
+  .flex-item7{
+    
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    
+    
+    
+  }
+
   .logo {
-    margin-top: 15%;
-    margin-bottom: 50%;
-    width: 90%;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-top: 20%;
+    margin-bottom: 3%;
+    width: 35%;
+   
+    
+  }
+
+  
+
+  .info {
+    display: flex;
+    color: white;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;
+    font-family: "bahn";
+    font-size: 30px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
+    
+  
+    
+    
     
   }
 
@@ -56,12 +112,11 @@
   @media (max-width: 500px) {
    
     .logo{
-      display: none;
+      width: 80%;
+      margin-bottom: 15%;
+      margin-top: 15%;
   }
 
-    .flex-item6{
-      margin-top: 75%;
-  }
   
     
   
