@@ -113,6 +113,8 @@
    
     .logo{
       width: 80%;
+      margin-left: 10%;
+      margin-right: 10%;
       margin-bottom: 10%;
       margin-top: 20%;
   }
@@ -137,4 +139,13 @@
     font-size: 15px;
    
   
+  }
+
+  .flex-item6{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    
+    
   }
