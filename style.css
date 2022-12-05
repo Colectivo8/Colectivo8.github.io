@@ -109,7 +109,7 @@ body {
   margin-bottom: 20PX;
 }
 
-.info a:hover{
+.info p a:hover{
     background-color: black;
 }
 
