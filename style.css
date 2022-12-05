@@ -108,6 +108,11 @@ body {
   
   margin-bottom: 20PX;
 }
+
+.info a:hover{
+    background-color: black;
+}
+
 .infomagma {
   display: flex;
   color: #4fef0c;
