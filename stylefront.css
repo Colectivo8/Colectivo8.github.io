@@ -37,7 +37,7 @@
     
   }
 
-.botonmail:hover{
+.botonmail:hover, .botones:hover{
   background: white;
   color:black;
 }
