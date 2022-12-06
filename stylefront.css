@@ -38,7 +38,8 @@
   }
 
 .botonmail:hover{
-  background: black;
+  background: white;
+  color:black;
 }
 
   .video { 
