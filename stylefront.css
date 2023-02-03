@@ -92,13 +92,13 @@
   .info {
     display: flex;
     color: white;
-    height: 80px;
+    height: 50px;
     /*flex-wrap: wrap;*/
     align-content: flex-start;
     justify-content: center;
     font-family: "bahn";
     font-size: 24px;
-    margin: 21% auto 0;
+    margin: 22.5% auto 0;
     text-align: center;
     
   
