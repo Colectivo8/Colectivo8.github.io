@@ -23,6 +23,7 @@
   
     
   }
+
   .botonmail{
 
     opacity: 1;
@@ -45,6 +46,10 @@
 .botonmail:hover, .botones:hover{
   background: white;
   color:black;
+}
+
+.white_line{
+  whidht
 }
 
   .video { 
@@ -98,7 +103,7 @@
     justify-content: center;
     font-family: "bahn";
     font-size: 24px;
-    margin: 22.5% auto 0;
+    margin: 24 auto 0;
     text-align: center;
         
   }
