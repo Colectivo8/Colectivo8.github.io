@@ -100,13 +100,23 @@
     font-size: 24px;
     margin: 22.5% auto 0;
     text-align: center;
-    
-  
-    
-    
-    
+        
   }
-
+  .info p{
+    opacity: 1;
+    color: white;
+    
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-inline: 2%;
+    font-family: "bahn";
+    font-size: 30px;
+   
+    padding: 5px 10px 5px 10px;
+    transition: 0.3s;
+   
+     }
   @font-face {
     font-family: bahn;
     src: url(BAHNSCHRIFT\ 8.TTF);
