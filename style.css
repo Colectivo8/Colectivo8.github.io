@@ -22,12 +22,12 @@
 
 @font-face {
     font-family: grotesklight;
-    src: url(FoundersGrotesk-Light.otf);
+    src: url("FoundersGrotesk-Light.otf") format("opentype");
   }
 
 @font-face {
     font-family: groteskmed;
-    src: url(FoundersGrotesk-Medium.otf);
+    src: url("FoundersGrotesk-Medium.otf") format("opentype");
   } 
 
 
