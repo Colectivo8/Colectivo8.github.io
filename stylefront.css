@@ -103,8 +103,12 @@
     justify-content: center;
     font-family: "bahn";
     font-size: 24px;
-    margin: 34% auto 0;
     text-align: center;
+    width: 600px;
+    position: fixed;
+    bottom: 75px;
+    left: 50%;
+    margin-left: -300px;
         
   }
   .info p{
