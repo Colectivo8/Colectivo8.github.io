@@ -102,10 +102,9 @@ body {
   flex-wrap: wrap;
   align-content: center;
   justify-content: space-evenly;
-  font-family: "bahn";
+  font-family: "groteskmed";
   font-size: 15px;
   width: 75%;
-  
   margin-bottom: 20PX;
   text-shadow: 1px 1px 7px #00000082;
 }
