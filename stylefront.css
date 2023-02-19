@@ -44,7 +44,7 @@
     display: inline-block;
     margin-inline: 15px;
     font-family: "grotesklight";
-    font-size: 30px;
+    /*font-size: 30px;*/
    
     /*padding: 5px 10px 5px 10px;*/
     transition: 0.3s;
@@ -114,7 +114,7 @@
   .info {
     display: flex;
     color: white;
-    height: 30px;
+    /*height: 30px;*/
     /*flex-wrap: wrap;*/
     align-content: flex-start;
     justify-content: center;
@@ -182,7 +182,7 @@
 
   .botones{
 
-    font-size: 15px;
+    /*font-size: 15px;*/
    
   
   }
