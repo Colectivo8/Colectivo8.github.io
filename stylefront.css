@@ -103,7 +103,14 @@
   }
 
   
-
+  .bottom_div{
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    
+    
+  }
   .info {
     display: flex;
     color: white;
@@ -115,11 +122,10 @@
     font-size: 24px;
     font-weight: bold;
     text-align: center;
-    width: 600px;
+    width: 50%;
     position: fixed;
     bottom: 75px;
-    left: 50%;
-    margin-left: -300px;
+    left: 25%;
     letter-spacing: 2pt;
         
   }
