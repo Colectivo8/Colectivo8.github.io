@@ -149,6 +149,12 @@
        background-color: white;
        margin-top: -0.4vw;
    }
+   .separador_horizontal{
+       width: 150px;
+       height: 3px;
+       background-color: white;
+       margin-left: 10px;
+   }
 
 @font-face {
     font-family: bahn;
