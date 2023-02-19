@@ -145,7 +145,7 @@
    }
    .separador_vertical{
        width: 2px;
-       height: auto;
+       height: 2vw;
        background-color: white;
        margin: 0 7px;
    }
