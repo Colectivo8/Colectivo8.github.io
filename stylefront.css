@@ -23,7 +23,7 @@
     text-decoration: none;
     display: inline-block;
     margin-inline: 2%;
-    font-family: "groteskmed";
+    font-family: "grotesklight";
     font-size: 20px;
     margin-top: 5%;
     margin-bottom: 5%;
@@ -43,7 +43,7 @@
     text-decoration: none;
     display: inline-block;
     margin-inline: 15px;
-    font-family: "groteskmed";
+    font-family: "grotesklight";
     font-size: 30px;
    
     /*padding: 5px 10px 5px 10px;*/
@@ -111,7 +111,7 @@
     /*flex-wrap: wrap;*/
     align-content: flex-start;
     justify-content: center;
-    font-family: "groteskmed";
+    font-family: "grotesklight";
     font-size: 24px;
     text-align: center;
     width: 600px;
@@ -129,7 +129,7 @@
     text-decoration: none;
     display: contents;
     margin-inline: 2%;
-    font-family: "groteskmed";
+    font-family: "grotesklight";
     font-size: 30px;
    
     padding: 5px 10px 5px 10px;
